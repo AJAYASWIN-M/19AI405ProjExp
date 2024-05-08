@@ -80,9 +80,7 @@ else:
 ```
 
 <h2>OUTPUT :</h2>
-
-
-
+![321121719-62586059-839c-47ac-997f-8112c0248759](https://github.com/AJAYASWIN-M/19AI405ProjExp/assets/118679692/446a2c52-aeb3-439c-94d9-308693dc2ef7)
 
 <h2>RESULT :</h2>
 Thus, a Sudoku solver using the backtracking algorithm is implemented for the given Sudoku puzzle.
